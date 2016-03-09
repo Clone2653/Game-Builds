@@ -44,6 +44,9 @@ faceInt = (int)Face.value;
 torsoInt = (int)Torso.value;
 legsInt = (int)Legs.value;
 
+//Sets the name/username
+Username = Name.text;
+
 }
 
 }
